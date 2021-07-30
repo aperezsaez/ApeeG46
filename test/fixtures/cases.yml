@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  day: 2021-07-29
+  total_cases: 
+  deceaseds: 
+  actives: 
+  new: 1
+
+two:
+  day: 2021-07-29
+  total_cases: 
+  deceaseds: 
+  actives: 
+  new: 1
